@@ -14,4 +14,16 @@ Daikibo collected telemetry data from machines across four global factories to u
 The client wanted answers to:
 
 **1. Which factory experienced the highest machine downtime?
+
 2. Which machine types failed most frequently in that factory?**
+
+**Factory Locations:**
+
+1. Daikibo Factory **Meiyo** – Tokyo, Japan\n
+2. Daikibo Factory **Seiko** – Osaka, Japan\n
+3. Daikibo **Berlin** – Germany\n
+4. Daikibo **Shenzhen** – China\n
+
+Each factory operates **9 machine types**, sending status messages every **10 minutes**.
+
+
