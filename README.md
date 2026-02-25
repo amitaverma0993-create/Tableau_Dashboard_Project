@@ -1,14 +1,14 @@
 # Tableau Dashboard_Daikibo Factory Telemetry Analysis
 
-##**Project Overview**##
+##**Project Overview**
 
 This project was completed as part of a **Deloitte - Data Analytics Job Simulation**, where I analyzed machine telemetry data from multiple manufacturing factories using **Tableau**.
 
-##**Objective**##
+##**Objective**
 
 The objective was to transform raw operational data into **actionable business insights** by building interactive **dashboards**.
 
-##**Business Problem**##
+##**Business Problem**
 
 Daikibo collected telemetry data from machines across four global factories to understand operational efficiency and machine failures.
 The client wanted answers to:
@@ -64,7 +64,7 @@ Each factory operates **9 machine types**, sending status messages every **10 mi
 1. Bar chart showing downtime by machine type
 2. Identifies failure-prone machines
 
-###**4. Dashboard Creation**###
+###**4. Dashboard Creation**
 
 Built an interactive dashboard including:
 1. Factory downtime visualization
@@ -73,20 +73,20 @@ Built an interactive dashboard including:
 
 ####Selecting a factory dynamically filters machine performance.####
 
-##**Key Insights**##
+##**Key Insights**
 
 1. Identified the factory with the maximum downtime
 2. Highlighted machines contributing most to operational failure
 3. Enabled management to prioritize maintenance decisions
 
-##**Dashboard Features**##
+##**Dashboard Features**
 
 1. Interactive filtering
 2. Business-focused visualization
 3. Operational performance tracking
 4. Decision-support analytics
 
-##**Skills Demonstrated**##
+##**Skills Demonstrated**
 
 1. Data Analysis
 2. Tableau Dashboard Development
@@ -96,7 +96,22 @@ Built an interactive dashboard including:
 6. Problem Solving
 7. KPI Monitoring
 
-##**Learning Outcomes**##
+##**Learning Outcomes**
+
+1. Converted raw machine data into insights
+2. Built interactive dashboards using Tableau
+3. Applied real-world analytics workflow
+4. Understood manufacturing performance monitoring
+
+##**Future Improvements**
+
+1. Add predictive maintenance analytics
+2. Integrate real-time telemetry streaming
+3. Build automated reporting dashboards
+
+
+
+
 
 
 
