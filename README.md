@@ -13,13 +13,13 @@ The objective was to transform raw operational data into **actionable business i
 Daikibo collected telemetry data from machines across four global factories to understand operational efficiency and machine failures.
 The client wanted answers to:
 
-**1. Which factory experienced the highest machine downtime?\n
-2. Which machine types failed most frequently in that factory?**
+**1. Which factory experienced the highest machine downtime?**
+**2. Which machine types failed most frequently in that factory?**
 
 **Factory Locations:**
 
-1. Daikibo Factory **Meiyo** – Tokyo, Japan\n
-2. Daikibo Factory **Seiko** – Osaka, Japan\n
+1. Daikibo Factory **Meiyo** – Tokyo, Japan
+2. Daikibo Factory **Seiko** – Osaka, Japan
 3. Daikibo **Berlin** – Germany\n
 4. Daikibo **Shenzhen** – China\n
 
