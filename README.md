@@ -14,6 +14,7 @@ Daikibo collected telemetry data from machines across four global factories to u
 The client wanted answers to:
 
 **1. Which factory experienced the highest machine downtime?**
+
 **2. Which machine types failed most frequently in that factory?**
 
 **Factory Locations:**
