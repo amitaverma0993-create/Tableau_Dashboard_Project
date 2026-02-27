@@ -75,7 +75,7 @@ Built an interactive dashboard including:
 #### Selecting a factory dynamically filters machine performance.
 
 ## Dashboard
-<a href="https://public.tableau.com/views/Tableauworkshop_17721829566040/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+<a href="https://github.com/amitaverma0993-create/Tableau_Dashboard_Project/blob/main/Dashboard%202.pdf"> View Dashboard </a>
 
 ## **Dashboard Features**
 
