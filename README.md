@@ -72,13 +72,7 @@ Built an interactive dashboard including:
 2. Device-type downtime visualization
 3. Cross-filter functionality 
 
-#### Selecting a factory dynamically filters machine performance.####
-
-## **Key Insights**
-
-1. Identified the factory with the maximum downtime
-2. Highlighted machines contributing most to operational failure
-3. Enabled management to prioritize maintenance decisions
+#### Selecting a factory dynamically filters machine performance.
 
 ## **Dashboard Features**
 
@@ -86,6 +80,19 @@ Built an interactive dashboard including:
 2. Business-focused visualization
 3. Operational performance tracking
 4. Decision-support analytics
+
+## **Key Insights**
+
+1. Identified the factory with the maximum downtime
+2. Highlighted machines contributing most to operational failure
+3. Enabled management to prioritize maintenance decisions
+
+## **Learning Outcomes**
+
+1. Converted raw machine data into insights
+2. Built interactive dashboards using Tableau
+3. Applied real-world analytics workflow
+4. Understood manufacturing performance monitoring
 
 ## **Skills Demonstrated**
 
@@ -96,14 +103,7 @@ Built an interactive dashboard including:
 5. Analytical Thinking
 6. Problem Solving
 7. KPI Monitoring
-
-## **Learning Outcomes**
-
-1. Converted raw machine data into insights
-2. Built interactive dashboards using Tableau
-3. Applied real-world analytics workflow
-4. Understood manufacturing performance monitoring
-
+   
 ## **Future Improvements**
 
 1. Add predictive maintenance analytics
