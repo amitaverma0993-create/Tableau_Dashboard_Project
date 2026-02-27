@@ -25,14 +25,14 @@ The client wanted answers to:
 4. Daikibo **Shenzhen** – China
 Each factory operates **9 machine types**, sending status messages every **10 minutes**.
 
-##**Dataset Information**
+## **Dataset Information**
 
 1. Format: JSON file
 2. Data Type: Machine telemetry logs
 3. Frequency: Every 10 minutes
 4. Data Source: Client telemetry system
 
-##**Tools & Technologies**
+## **Tools & Technologies**
 
 1. Tableau Desktop Public Edition
 2. Data Visualization
@@ -40,54 +40,54 @@ Each factory operates **9 machine types**, sending status messages every **10 mi
 4. Calculated Fields
 5. Interactive Dashboard Design
 
-##**Project Workflow**
+## **Project Workflow**
 
-###**1. Data Preparation**
+### **1. Data Preparation**
 
 1. Imported JSON telemetry dataset into Tableau
 2. Reviewed machine status fields
 3. Cleaned and structured raw data
 
-###**2. Calculated Field Creation**
+### **2. Calculated Field Creation**
 
 1. Created a calculated measure for Unhealthy Field
 2. Represents 10 minutes of downtime per unhealthy signal
 
-###**3. Visualization Development**
+### **3. Visualization Development**
 
-####**Down Time per Factory**
+#### **Down Time per Factory**
 
 1. Bar chart showing total downtime by factory
 2. Helps identify worst-performing location
 
-####**Down Time per Device Type**
+#### **Down Time per Device Type**
 
 1. Bar chart showing downtime by machine type
 2. Identifies failure-prone machines
 
-###**4. Dashboard Creation**
+### **4. Dashboard Creation**
 
 Built an interactive dashboard including:
 1. Factory downtime visualization
 2. Device-type downtime visualization
 3. Cross-filter functionality 
 
-####Selecting a factory dynamically filters machine performance.####
+#### Selecting a factory dynamically filters machine performance.####
 
-##**Key Insights**
+## **Key Insights**
 
 1. Identified the factory with the maximum downtime
 2. Highlighted machines contributing most to operational failure
 3. Enabled management to prioritize maintenance decisions
 
-##**Dashboard Features**
+## **Dashboard Features**
 
 1. Interactive filtering
 2. Business-focused visualization
 3. Operational performance tracking
 4. Decision-support analytics
 
-##**Skills Demonstrated**
+## **Skills Demonstrated**
 
 1. Data Analysis
 2. Tableau Dashboard Development
@@ -97,14 +97,14 @@ Built an interactive dashboard including:
 6. Problem Solving
 7. KPI Monitoring
 
-##**Learning Outcomes**
+## **Learning Outcomes**
 
 1. Converted raw machine data into insights
 2. Built interactive dashboards using Tableau
 3. Applied real-world analytics workflow
 4. Understood manufacturing performance monitoring
 
-##**Future Improvements**
+## **Future Improvements**
 
 1. Add predictive maintenance analytics
 2. Integrate real-time telemetry streaming
